@@ -26,7 +26,7 @@ function App() {
     <div className="app">
       <header className="app-header">
         <h1>📱 SocialFeed</h1>
-        <p>Interactive Social Media Experience</p>
+        <p>Interactive Social Media Experience with Tharani.dev</p>
       </header>
 
       <div className="feed">
